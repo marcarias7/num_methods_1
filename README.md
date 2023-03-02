@@ -1,2 +1,3 @@
-# num_methods_1
-Example with Euler and RK4 methods 
+# metodos numericos ejemplos
+Aplicacion Euler y RK4 
+caida de un objeto en medio viscoso 
